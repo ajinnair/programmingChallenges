@@ -1,0 +1,9 @@
+
+*.class
+*.prefs
+Codility/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Codility/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Codility/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+Codility/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+Codility/target/surefire-reports/com.test.UniqueCountriesProblemTest.txt
+Codility/target/surefire-reports/TEST-com.test.UniqueCountriesProblemTest.xml
